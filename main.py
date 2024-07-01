@@ -94,9 +94,9 @@ async def update_all_presences():
     for guild in bot.guilds:
         await update_presence(guild)
 
-bot_owner_ids = ('1171067347801473125', '1165054507076554942')
+bot_owner_ids = ('YOUR DISCORD USER ID')
 default_status = discord.Status.online
-default_activity = discord.Activity(type=discord.ActivityType.watching, name="Zen's Army")
+default_activity = discord.Activity(type=discord.ActivityType.watching, name="Servers")
 
 @bot.command(name='setstatus')
 async def set_status(ctx, status: str, *, activity_name: str = ' .commands'):

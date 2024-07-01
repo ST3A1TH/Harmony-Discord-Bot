@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "repl-nix-guardian"
+version = "0.1.0"
+description = ""
+authors = ["ST3A1TH"]
+readme = "README.md"
+packages = [{include = "repl_nix_guardian"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

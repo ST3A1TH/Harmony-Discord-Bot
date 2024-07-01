@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="discord_bot.py" src="https://i.alexflipnote.dev/MiFAeTE.png" width="750px">
+  <img alt="discord_bot.py" src="https://cdn.discordapp.com/attachments/1247184520449622038/1257258268905046077/White_and_Blue_Simple_Launching_Soon_Outdoor_Banner_Landscape.png?ex=6683c082&is=66826f02&hm=f71fcbd22afbcab82a3219efc6abec59430f336f28532340d7eeac758b8445d9&" width="750px">
 </p>
 
 Do you need more help? Visit my server here: **https://discord.gg/Gp8e2A9TKq** ⭐️
